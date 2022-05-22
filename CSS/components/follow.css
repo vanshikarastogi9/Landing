@@ -1,0 +1,31 @@
+.follow{
+
+	width: 900px;
+	border-radius: 10px;
+
+	text-align: center;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	background-color: white;
+	border-bottom: 0px;
+	margin-bottom: 0px;
+	font-size: 25px;
+	margin-top: 60px;
+	
+}
+
+.liste {
+	list-style: none;
+
+
+}
+.liste li{
+	 display: inline;
+	 padding: 10px;
+}
+.liste i {
+	align-items: center;
+	font-size: 40px;
+}
+

@@ -1,0 +1,32 @@
+.avatar{
+	width: 140px;
+	height: 140px;
+	border-radius: 50%;
+    border: 3px solid black;
+}
+
+.avatars{
+	
+	overflow:hidden;
+	display: flex;
+    justify-content: center;
+    margin-bottom: 60px;
+
+}
+    
+.vanshikarastogi{
+	margin: 0px 32px;
+}
+
+.ana{
+	margin: 0px 32px;
+}
+
+.marielynn{
+	margin: 0px 32px;
+}
+
+.camille{
+	margin: 0px 32px;
+}
+
